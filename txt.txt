@@ -1,0 +1,7 @@
+$ git init
+$ git add .
+$ git commit -m "txt.txt"
+$ git branch -M main
+$ git remote add origin git@github.com:NikitaMokeev18/12345.git
+ntjhf$ git push -u origin main
+
